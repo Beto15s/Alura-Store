@@ -1,13 +1,5 @@
 # Alura Store
 
-Este juego te ayudara a sortear entre en una lista de amigos uno en especial que sera llamdo "amigo sereto"
+Se realizo una analisis con la intecion de ayudar al señor Juan a conocer cual de sus cuatro tiendas era la que debia de vender para invertir en otro negocio.
 
-Para utilizar la pagina:
-
-1.-Se debe teclear el nombre del primer amigo en la caja de texto que dice ```Anote un nombre```
-
-2.-Dar click en el boton añadir para añadirlo a la lista de amigos
-
-3.-Repetir los pasos 1 y 2 para el resto de amigos que se quieran añadir a la lista
-
-4.-Una vez agregados todos los nombres dar click en el boton ```Sortear amigo``` para obtener el nobre de nuestro amigo secreto
+Se relaizo un analisis de las ventas totales de las tiendas, el costo de envio, las categorias mas y menos populares que vendia cada una de las tiendas asi como las calificaciones promedio que se les otorgo a los productos.
